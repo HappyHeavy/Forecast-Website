@@ -1,0 +1,12 @@
+.container-images {
+  text-align: center;
+}
+
+.container-images .icon {
+  width: 50%;
+}
+
+.city-name {
+  text-align: center;
+  padding-bottom: 5px;
+}
