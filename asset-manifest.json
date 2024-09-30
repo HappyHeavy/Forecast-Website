@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Forecast-Website/static/css/main.36bda9e1.css",
+    "main.js": "/Forecast-Website/static/js/main.ca6ba39c.js",
+    "static/js/787.13d76ca7.chunk.js": "/Forecast-Website/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/Forecast-Website/index.html",
+    "main.36bda9e1.css.map": "/Forecast-Website/static/css/main.36bda9e1.css.map",
+    "main.ca6ba39c.js.map": "/Forecast-Website/static/js/main.ca6ba39c.js.map",
+    "787.13d76ca7.chunk.js.map": "/Forecast-Website/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bda9e1.css",
+    "static/js/main.ca6ba39c.js"
+  ]
+}
