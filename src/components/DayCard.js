@@ -46,7 +46,7 @@ const DayCard = ({ data }) => {
             <div className={classes["weather-detail"]}>
               <img
                 className={classes["weather-icon-small"]}
-                src="./Forecast-Website/img/humidity.png"
+                src="./img/humidity.png"
                 alt="Humidity"
               />
               <p>Humidity: {humidity}%</p>
@@ -54,7 +54,7 @@ const DayCard = ({ data }) => {
             <div className={classes["weather-detail"]}>
               <img
                 className={classes["weather-icon-small"]}
-                src="./Forecast-Website/img/pressure.png"
+                src="./img/pressure.png"
                 alt="Pressure"
               />
               <p>Pressure: {pressure} hPa</p>
@@ -62,7 +62,7 @@ const DayCard = ({ data }) => {
             <div className={classes["weather-detail"]}>
               <img
                 className={classes["weather-icon-small"]}
-                src="./Forecast-Website/img/windspeed.png"
+                src="./img/windspeed.png"
                 alt="WindSpeed"
               />
               <p>Wind Speed: {windSpeed} m/s</p>
@@ -71,7 +71,7 @@ const DayCard = ({ data }) => {
               <img
                 style={{ transform: `rotate(${windDirection}deg)` }}
                 className={classes["weather-icon-small"]}
-                src="./Forecast-Website/img/winddirection.png"
+                src="./img/winddirection.png"
                 alt="WindDirection"
               />
               <p>Wind Direction: {windDirection}°</p>

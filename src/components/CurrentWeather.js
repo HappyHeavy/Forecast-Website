@@ -26,11 +26,7 @@ const CurrentWeather = () => {
     if (!loading && !error)
       return (
         <div className={classes["container-images"]}>
-          <img
-            src="./Forecast-Website/icon.png"
-            alt="icon"
-            className={classes.icon}
-          />
+          <img src="/icon.png" alt="icon" className={classes.icon} />
         </div>
       );
     return <></>;
